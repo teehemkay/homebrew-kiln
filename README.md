@@ -1,6 +1,6 @@
 # homebrew-kiln
 
-Homebrew tap for kiln, a template compiler for [GFI-like](https://github.com/haoxins/gulp-file-include) syntax.
+Homebrew tap for kiln, a template compiler for [GFI-like](https://www.npmjs.com/package/gulp-file-include) syntax.
 
 ## Install
 
